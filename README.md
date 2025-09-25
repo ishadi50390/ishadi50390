@@ -16,4 +16,4 @@
   
 
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=ishadi50390&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishadi50390&theme=tokyonight) |
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=ishadi50390&show_icons=true&theme=tokyonight) | 
