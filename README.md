@@ -16,4 +16,4 @@
   
 
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=ishadi50390&show_icons=true&theme=tokyonight) | 
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=ishadi50390&show_icons=true&theme=tokyonight) 
